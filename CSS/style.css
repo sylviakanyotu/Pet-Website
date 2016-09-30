@@ -1,0 +1,17 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/Blackie.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Courgette', cursive;
+}
+h1 {
+    color: darkturquoise
+}
+p{
+    color: fuchsia
+}
+.centered-text{ 
+    text-align:center;
+}
